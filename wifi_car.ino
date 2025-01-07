@@ -36,9 +36,9 @@ bool backward = 0;
 bool left = 0;
 bool right = 0;
 int Speed;
-char auth[] = "Q0-TEUnPFUcgH3K5gYVi8yTB9hruiWPE"; //Enter your Blynk application auth token
-char ssid[] = "Rakha"; //Enter your WIFI name
-char pass[] = "rakha4002"; //Enter your WIFI passowrd
+char auth[] = "-"; //Enter your Blynk application auth token
+char ssid[] = "-"; //Enter your WIFI name
+char pass[] = "-"; //Enter your WIFI passowrd
  
  
 void setup() {
